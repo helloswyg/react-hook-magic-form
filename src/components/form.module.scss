@@ -1,0 +1,9 @@
+.form {
+  & > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.errorBox {
+  margin-top: 30px;
+}
